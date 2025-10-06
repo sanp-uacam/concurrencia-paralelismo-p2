@@ -81,6 +81,6 @@ Cada equipo debe organizar su presentación así:
 ### **Resumen de la investigación:**
 + Reporte de minimo 350 palabras.
 + Formato MD (Markdown).
-+ Cada equipo hara pull-request a su rama, donde se agregara el documento: ActAp01_"nombre del equipo".
++ Cada equipo hara un solo pull-request a su rama, donde se agregara el documento: ActAp01_"nombre del equipo".
 + Incluir bibliografía.
 
