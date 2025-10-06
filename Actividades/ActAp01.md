@@ -65,3 +65,9 @@ Cada equipo debe organizar su presentación así:
 **Slide 7:** Caso de Estudio Detallado
 **Slide 8:** Conclusiones y Aprendizajes
 ```
+
+### **Resumen de la investigación:**
++ Reporte de minimo 350 palabras.
++ Formato MD (Markdown).
++ Cada equipo hara pull-request a su rama, unicamente modificanto el archivo *ActAp01*
++ ⚠️ INCLUIR NOMBRE DE LOS PARTICIPANTES
