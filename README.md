@@ -1,5 +1,5 @@
-# Integrantes del Equipo
+# Integrantes del Equipo 
 - Gabriel Chi Vidal
-- Mauricio Sonda Cauhuich 
+- Mauricio Sonda Cahuich 
 - Angel Antonio Perez Reyes 
 - Jose Manuel Castillo Quej
