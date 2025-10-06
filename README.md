@@ -3,4 +3,4 @@
 - Foster Medina Sergio David
 - Adalberto Enai Pech Us
 - Carlos Salazar
-- Ivan Rodriguez
+- Iván José Rodríguez Maldonado
