@@ -1,3 +1,3 @@
 # Integranres
 - César Antonio Ix Sánchez
--Foster Medina Sergio David
+- Foster Medina Sergio David
