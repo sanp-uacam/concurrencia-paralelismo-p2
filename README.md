@@ -2,3 +2,5 @@
 - César Antonio Ix Sánchez
 - Foster Medina Sergio David
 - Adalberto Enai Pech Us
+-Carlos Salazar
+- Ivan Rodriguez
