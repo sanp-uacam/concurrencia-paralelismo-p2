@@ -1,5 +1,3 @@
-// ELIMINA esta línea si existe:
-// package HTTPserver;
 
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;
@@ -14,7 +12,7 @@ public class ServidorHTTPBasico {
         HttpServer server = HttpServer.create(new InetSocketAddress(8080), 0);
         
         // Crear contextos (rutas)
-        server.createContext("/", new MiHandler());
+        server.createContext("/", new MyHandler());
         server.createContext("/saludo", new SaludoHandler());
         server.createContext("/api/info", new ApiHandler());
         
@@ -30,7 +28,7 @@ public class ServidorHTTPBasico {
         System.out.println("  - http://localhost:8080/api/info");
     }
     
-    static class MiHandler implements HttpHandler {
+    static class MyHandler implements HttpHandler {
         @Override
         public void handle(HttpExchange exchange) throws IOException {
             String response = """
