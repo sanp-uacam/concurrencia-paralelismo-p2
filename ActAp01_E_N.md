@@ -22,3 +22,11 @@ El proceso básico de BitTorrent incluye: <br>
 - Intercambio de fragmentos: Los usuarios descargan y suben fragmentos simultáneamente, mejorando la eficiencia.<br>
 - Finalización de la descarga: Una vez que todos los fragmentos han sido descargados y ensamblados, el archivo completo está disponible para el usuario.<br>
 
+## Referencias bibliográficas
+- IONOS. (s. f.). *¿Qué es P2P (peer to peer)?* Recuperado de https://www.ionos.com/es-us/digitalguide/servidores/know-how/que-es-p2p-peer-to-peer/  
+- Hivenet. (2023). *Guía de redes P2P: Cómo funciona la tecnología punto a punto*. Recuperado de https://www.hivenet.com/es/post/peer-to-peer-networks-understanding-the-basics-and-benefits  
+- Wikipedia. (s. f.). *Tabla de hash distribuida*. En *Wikipedia, la enciclopedia libre*. Recuperado de https://es.wikipedia.org/wiki/Tabla_de_hash_distribuida  
+- ElHacker.net. (2021, 27 de noviembre). *Funcionamiento Protocolo p2p (BitTorrent)*. Recuperado de https://blog.elhacker.net/2021/11/funcionamiento-protocolo-p2p-bittorrent.html  
+- Universidad de Salamanca / Rodrigo (documento). *7-P2P (Sistemas Distribuidos)*. Recuperado de https://vis.usal.es/rodrigo/documentos/sisdis/teoria/7-p2p.pdf  
+- RedesZone. (s. f.). *Tipos de redes P2P (Peer To Peer) y diferencias entre ellas*. Recuperado de https://www.redeszone.net/tutoriales/internet/tipos-redes-p2p-peer-to-peer/  
+- EducaOpen. (s. f.). *Qué son y cómo funcionan las redes peer-to-peer (P2P)*. Recuperado de https://www.educaopen.com/digital-lab/metaterminos/p/peer-to-peer  
