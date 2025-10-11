@@ -2,4 +2,4 @@
 - Gabriel Chi Vidal
 - Mauricio Sonda Cahuich 
 - Angel Antonio Perez Reyes 
-- Jose Manuel Castillo Quej
+- Jose Manuel Castillo Queh
