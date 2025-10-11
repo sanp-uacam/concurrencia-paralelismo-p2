@@ -51,6 +51,17 @@ Al finalizar esta actividad, serás capaz de:
 3. Investiga sobre el patrón Publicador-Suscriptor.
 4. **Ejemplo práctico:** ¿Por qué Uber usaría un sistema de mensajería como Kafka?
 
+#### **Equipo MoranMakers:  Computación en la Nube - El Paradigma Modernos**
+**Preguntas guía:**
+1. ¿Qué es la computación en la nube y cómo se relaciona con los sistemas distribuidos?
+2. Investiga y explica los **tres modelos de servicio fundamentales**:
+   - IaaS (Infraestructura como Servicio)
+   - PaaS (Plataforma como Servicio)
+   - SaaS (Software como Servicio)
+3. Describe los **modelos de despliegue**: nube pública, privada e híbrida.
+4. **Ejemplo práctico:** Analiza cómo Netflix utiliza los servicios AWS (Amazon Web Services) para su streaming global.
+5. ¿Qué ventajas ofrece la nube sobre las arquitecturas tradicionales "on-premise"?
+
 ### **Estructura de la Presentación**
 
 Cada equipo debe organizar su presentación así:
