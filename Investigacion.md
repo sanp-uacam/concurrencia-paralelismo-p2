@@ -126,5 +126,7 @@ Las topologías de red constituyen la base física de cualquier sistema distribu
 **Referencias**
 
 *Cuadrado, G. C. (2024, 26 agosto). Topología de redes informáticas: Tipos, características y aplicaciones. OpenWebinars.net. https://openwebinars.net/blog/topologia-de-redes-informaticas/*
+
 *Itgdev. (2024, 3 septiembre). What is Network Topology? Types & How to Map It. IT Glue. https://www.itglue.com/blog/network-topology/*
+
 *Jackson, G. (2024, 24 octubre). ¿Qué es la topología de red? IBM. https://www.ibm.com/mx-es/think/topics/network-topology*
