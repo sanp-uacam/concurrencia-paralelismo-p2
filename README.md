@@ -1,4 +1,7 @@
 # ActAp01_MoranMakers
+#### Moran Escalante Bryan Arturo
+#### Inurreta del Valle Rafael Enrique
+
 
 ## Resumen de Investigación: Computación en la Nube y Sistemas Distribuidos
 
