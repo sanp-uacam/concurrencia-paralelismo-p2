@@ -59,4 +59,5 @@ El cliente solicita (ej. "dame los correos no leídos"), y el servidor procesa e
 ### Bibliografía
 * Coulouris, G., Dollimore, J., Kindberg, T., & Blair, G. (2017). *Distributed Systems: Concepts and Design*. Pearson Education.
 * Tanenbaum, A. S., & Van Steen, M. (2017). *Distributed Systems: Principles and Paradigms*. Pearson Education.
+*Kurose, J. F., & Ross, K. W. (2021). Computer Networking: A Top-Down Approach (8th ed.). Pearson.
 
