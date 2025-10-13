@@ -37,7 +37,7 @@ Los paradigmas de comunicación son la base de los sistemas distribuidos.
 - **Middleware** conecta sistemas distintos.  
 - **Pub/Sub** permite comunicación moderna en tiempo real.  
 
-Las empresas combinan estos modelos para crear sistemas **más rápidos, escalables y confiables**.  
+En la práctica, las empresas combinan estos modelos para crear sistemas más **rápidos, escalables y confiables**. Gracias a estos paradigmas, servicios como Uber, Netflix o Amazon pueden coordinar miles de procesos distribuidos en diferentes servidores sin perder **eficiencia ni consistencia**, demostrando que una buena arquitectura de comunicación es esencial para el rendimiento global de las aplicaciones modernas.
 
 
 ## Bibliografía
