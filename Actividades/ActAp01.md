@@ -16,40 +16,51 @@ Al finalizar esta actividad, serás capaz de:
 
 ### **Guía de Investigación por Arquitecturas**
 
-#### **Equipo 1: Topologías de Red - La Base Física**
+#### **Equipo 'papus': Topologías de Red - La Base Física**
 **Preguntas guía:**
 1. ¿Qué es una topología de red y por qué es importante en sistemas distribuidos?
 2. Investiga y representa gráficamente las 5 topologías físicas principales.
 3. Explica la diferencia entre topología física y lógica.
 4. **Ejemplo práctico:** ¿Qué topología se usa en el laboratorio de computación de nuestra universidad? ¿Y en una red Wi-Fi doméstica?
 
-#### **Equipo 2: Arquitectura Cliente-Servidor - El Modelo Tradicional**
+#### **Equipo 'papure': Arquitectura Cliente-Servidor - El Modelo Tradicional**
 **Preguntas guía:**
 1. Define los roles de cliente y servidor.
 2. Explica las diferencias entre arquitecturas de 2, 3 y n-capas.
 3. Identifica 3 ventajas y 3 desventajas críticas.
 4. **Ejemplo práctico:** Analiza cómo funciona el servicio de correo electrónico (Gmail/Outlook) bajo este modelo.
 
-#### **Equipo 3: Arquitectura P2P - La Revolución Descentralizada**
+#### **Equipo 'E_N': Arquitectura P2P - La Revolución Descentralizada**
 **Preguntas guía:**
 1. ¿Por qué se considera P2P una arquitectura "entre iguales"?
 2. Compara P2P estructurado vs. no estructurado.
 3. Investiga sobre Tablas Hash Distribuidas (DHT).
 4. **Ejemplo práctico:** Explica cómo funciona BitTorrent para compartir archivos.
 
-#### **Equipo 4: Arquitecturas Híbridas - Lo Mejor de Dos Mundos**
+#### **Equipo KO-Team: Arquitecturas Híbridas - Lo Mejor de Dos Mundos**
 **Preguntas guía:**
 1. ¿Qué problemas resuelven las arquitecturas híbridas?
 2. Identifica elementos Cliente-Servidor y P2P en una arquitectura híbrida.
 3. Analiza por qué Spotify adoptó este modelo.
 4. **Ejemplo práctico:** Propón un diseño híbrido para una red social universitaria.
 
-#### **Equipo 5: Paradigmas de Comunicación - Cómo se Hablan los Sistemas**
+#### **Equipo HulkHogan6: Paradigmas de Comunicación - Cómo se Hablan los Sistemas**
 **Preguntas guía:**
 1. Compara RPC vs. Message Passing vs. Middleware.
 2. ¿Qué ventajas ofrece la comunicación asíncrona?
 3. Investiga sobre el patrón Publicador-Suscriptor.
 4. **Ejemplo práctico:** ¿Por qué Uber usaría un sistema de mensajería como Kafka?
+
+#### **Equipo MoranMakers:  Computación en la Nube - El Paradigma Modernos**
+**Preguntas guía:**
+1. ¿Qué es la computación en la nube y cómo se relaciona con los sistemas distribuidos?
+2. Investiga y explica los **tres modelos de servicio fundamentales**:
+   - IaaS (Infraestructura como Servicio)
+   - PaaS (Plataforma como Servicio)
+   - SaaS (Software como Servicio)
+3. Describe los **modelos de despliegue**: nube pública, privada e híbrida.
+4. **Ejemplo práctico:** Analiza cómo Netflix utiliza los servicios AWS (Amazon Web Services) para su streaming global.
+5. ¿Qué ventajas ofrece la nube sobre las arquitecturas tradicionales "on-premise"?
 
 ### **Estructura de la Presentación**
 
@@ -66,8 +77,21 @@ Cada equipo debe organizar su presentación así:
 **Slide 8:** Conclusiones y Aprendizajes
 ```
 
+---
+# Entregables
+
+## Classroom
+### **Presentación digital**
++ Se entrega en el Classroom. Uno por equipo incluir el nombre del equipo
+
+## GitHub
+
+### README.md 
++ ⚠️ contendra el nombre de los integrantes
+
 ### **Resumen de la investigación:**
 + Reporte de minimo 350 palabras.
 + Formato MD (Markdown).
-+ Cada equipo hara pull-request a su rama, unicamente modificanto el archivo *ActAp01*
-+ ⚠️ INCLUIR NOMBRE DE LOS PARTICIPANTES
++ Cada equipo hara pull-request a su rama, donde se agregara el documento: ActAp01_"nombre del equipo".
++ Incluir bibliografía.
+
