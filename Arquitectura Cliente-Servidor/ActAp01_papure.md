@@ -1,6 +1,6 @@
 # ActAp01: Arquitectura Cliente-Servidor
 
-## 👥 Integrantes del Equipo 'papure'
+##  Integrantes del Equipo 'papure'
 
 * OZIEL CANUL XOOL
 * FERNANDO ADRIANO SABIDO QUIJANO
@@ -9,7 +9,7 @@
 * KERIN DEL JESUS GONZALEZ MAAS
 
 
-## 📝 Arquitectura Cliente-Servidor
+##  Arquitectura Cliente-Servidor
 
 La arquitectura cliente-servidor ha estado presente en la computación desde los comienzos de las redes informáticas y todavía hoy sigue siendo la **base de la mayoría de los servicios** que usamos a diario, desde navegar por internet, usar aplicaciones como las redes sociales, hasta revisar el correo. Este modelo puede verse sencillo, pero es muy importante ya que permite **dividir el trabajo** entre quien pide (**el cliente**) y quien responde (**el servidor**), permitiéndonos tener una mejor organización entre la presentación, la lógica y los datos, y poder construir sistemas eficientes, seguros y fáciles de mantener.
 
@@ -56,7 +56,7 @@ El cliente solicita (ej. "dame los correos no leídos"), y el servidor procesa e
 
 ***
 
-### 📚 Bibliografía
+### Bibliografía
 * Coulouris, G., Dollimore, J., Kindberg, T., & Blair, G. (2017). *Distributed Systems: Concepts and Design*. Pearson Education.
 * Tanenbaum, A. S., & Van Steen, M. (2017). *Distributed Systems: Principles and Paradigms*. Pearson Education.
 
