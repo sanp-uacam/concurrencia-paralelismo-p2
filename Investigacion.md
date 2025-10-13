@@ -102,7 +102,8 @@ La configuración puede ser compleja en redes extensas.
 
 Usos comunes: redes empresariales o institucionales con diferentes departamentos o áreas conectadas a un servidor principal.
 
-**Diferencia entre topología física y lógica:**
+**Diferencia entre topología física y lógica**
+
 La topología física se refiere a la forma real en que los dispositivos y cables están conectados dentro de una red. Es decir, cómo están distribuidos los equipos, routers, switches y conexiones en el espacio físico.
 Por otro lado, la topología lógica describe la manera en que los datos circulan a través de la red, sin importar cómo estén conectados físicamente los dispositivos. Representa el flujo de información o la ruta que siguen los paquetes de datos entre los equipos
 
@@ -121,3 +122,9 @@ Sin embargo, lógicamente funciona como un bus, ya que todos comparten el mismo 
 
 **Conclusión**
 Las topologías de red constituyen la base física de cualquier sistema distribuido. Su correcta elección influye directamente en la eficiencia, escalabilidad y confiabilidad de la red. En entornos educativos o domésticos, la topología en estrella es la más usada por su equilibrio entre costo, facilidad de mantenimiento y rendimiento.
+
+**Referencias**
+
+*Cuadrado, G. C. (2024, 26 agosto). Topología de redes informáticas: Tipos, características y aplicaciones. OpenWebinars.net. https://openwebinars.net/blog/topologia-de-redes-informaticas/*
+*Itgdev. (2024, 3 septiembre). What is Network Topology? Types & How to Map It. IT Glue. https://www.itglue.com/blog/network-topology/*
+*Jackson, G. (2024, 24 octubre). ¿Qué es la topología de red? IBM. https://www.ibm.com/mx-es/think/topics/network-topology*
