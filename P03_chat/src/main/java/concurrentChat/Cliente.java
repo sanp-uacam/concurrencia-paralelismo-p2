@@ -48,6 +48,9 @@ public class Cliente {
     }
 
     public static void StartConection(int port, String address) {
+        //IMPLEMTAR: ip y port, sean dinamicos.
+        //solicitar ip y port.
+        //Mejora: cambiar coneccion. 0.25
         try {
             conection = new Socket(address, port);
         } catch (IOException ex) {

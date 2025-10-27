@@ -53,6 +53,7 @@ public class ClientHandler implements Runnable{
                     
                     username = inputMessage;
                     
+                    //Imprime en el servidor.
                     System.err.println(username + "se ha unido al chat");
                     
                 }
@@ -66,4 +67,18 @@ public class ClientHandler implements Runnable{
         }
     }
     
+    public void ChangeUserName(){
+        //IMPLEMENTAR: Cambiar el nombre de usuario del cliente.
+        //Mejora: notificar el cambio de nombre. 0.25
+    }
+    
+    public void privateMessage(){
+        //IMPLEMENTAR: Mandar mensaje privado a un usuario en la red.
+        //Mejora: mandar una alerta si el usuario no esta en linea o no existe. 0.25
+    }
+    
+    public void globalMessage(){
+        //IMPLEMENTAR: Mandar mensaje global a todos los usuarios.
+        //Notificar no. de usuarios que recibieron el mensaje. 0.25
+    }
 }
