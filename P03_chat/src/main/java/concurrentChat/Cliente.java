@@ -6,8 +6,6 @@ package concurrentChat;
 
 import Handlers.WriteHandler;
 import Handlers.ReadHandler;
-import java.io.DataInputStream;
-import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
@@ -18,12 +16,26 @@ import java.util.Scanner;
  */
 public class Cliente {
 
+    private static int PORT = 8080;
+    private static String ADDRESS = "localhost";
+    
+    public static Socket conection = null;
+
     public static void main(String[] args) throws IOException {
-        final int PORT = 8080;
-        final String ADDRESS = "localhost";
 
-        Socket conection = new Socket(ADDRESS, PORT);
-
+        Scanner scanner = new Scanner( System.in);
+        
+        String commands = scanner.nextLine();
+        
+        switch (commands) {
+            case "start-conection":
+                StartConection(PORT, ADDRESS);
+                break;
+            default:
+                throw new AssertionError();
+        }
+        
+        
         WriteHandler writer = new WriteHandler(conection);
         ReadHandler reader = new ReadHandler(conection);
 
@@ -32,5 +44,15 @@ public class Cliente {
 
         writeThread.start();
         readThread.start();
+        
     }
+
+    public static void StartConection(int port, String address) {
+        try {
+            conection = new Socket(address, port);
+        } catch (IOException ex) {
+            System.getLogger(Cliente.class.getName()).log(System.Logger.Level.ERROR, (String) null, ex);
+        }
+    }
+
 }
